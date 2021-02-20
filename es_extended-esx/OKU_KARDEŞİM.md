@@ -1,6 +1,5 @@
 # Script es_extended
-
-es_extended, FiveM için bir rol oynama çerçevesidir. ESX projesinin, FiveM için ** Es ** sentialMode E ** x ** eğilimli çerçevesinden kaynaklandığı EssentialMode'un (diğer adıyla ES) üstünde geliştirilmiştir.
+esx içindir.
 
 ## Bağlantılar ve Daha fazlası
 
@@ -102,15 +101,3 @@ start esx_menu_dialog
 ```
 
 ## Yasal
-
-### Lisans
-
-es_extended - FiveM için EssentialMode Genişletilmiş çerçevesi
-
-Telif Hakkı (C) 2015-2020 M T'gadi
-
-Bu program ücretsiz bir yazılımdır: GNU Genel Kamu Lisansı koşulları altında, Özgür Yazılım Vakfı tarafından yayımlanan şekliyle, Lisansın 3. sürümü ya da (isteğe bağlı olarak) daha sonraki bir sürüm altında değiştirebilirsiniz.
-
-Bu program faydalı olacağı ümidiyle fakat HERHANGİ BİR GARANTİSİ YOKTUR; zımni bir garanti olmaksızın, İŞLETMENLİK VEYA ÖZEL AMAÇ İÇİN UYGUNLUK. Daha fazla bilgi için GNU Genel Kamu Lisansına bakınız.
-
-Bu programla birlikte GNU Genel Kamu Lisansının bir kopyasını almış olmanız gerekir. Değilse, bkz. http://www.gnu.org/licenses/.
